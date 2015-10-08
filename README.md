@@ -10,3 +10,5 @@ Learn and Think about Monolothic Service Architecture and Micro Service Artchite
 
 [The Recipe for the World's Largest Rails Monolith](https://speakerdeck.com/a_matsuda/the-recipe-for-the-worlds-largest-rails-monolith)
 - [번역 및 요약](http://test-driven.me/archives/217)
+
+[MircoservicePremium](http://martinfowler.com/bliki/MicroservicePremium.html)
